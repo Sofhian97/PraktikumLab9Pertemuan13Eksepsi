@@ -3,7 +3,7 @@
 ### Prodi   : Teknik Informatika
 ### Matkul  : Bahasa Pemrograman
 
-# PraktikumLab9Pertemuan13Eksepsi
+# Praktikum Lab 9 Pertemuan 13 Penanganan Eksepsi
 
 Eksepsi (exception) merupakan suatu kesalahan (error) yang terjadi saat proses eksekusi program sedang berjalan, kesalahan ini akan menyebabkan program berakhir dengan tidak normal. Kesalahan-kesalahan ini dapat diidentifikasikan dengan nama tertentu dan direpresentasikan sebagai objek di dalam python.
 
